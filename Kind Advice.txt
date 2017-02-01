@@ -8,3 +8,19 @@ Kind Advice
 3 Which factors maybe make us succeed
 
 4 Detailed product positioning for our App.
+
+
+Motto:
+Provide a platform (a)for user to serach suitable restaurant 
+                   (b)for owner to promote their restaurant
+                   (c)for supplier to promote their business
+                   
+Pyramid scheme ： Supplier - Owner - Consumer (Target users)
+
+Function:
+1. search by diff criteria: Location/Price range/Type of Food/Calories/
+Advance function *Comments from customers/Status of foodpt/Booking Service/Discount or voucher plan
+2. app can detect the user`s location and show the appropraite nearest foodpt(cafe/restaurant/hawker/fastfood)
+OR  user can manually key in the location(browse usage)
+3. user can search via ONE or MULTIPLE condition if there is no match, the similar and nearest shop will show up
+
