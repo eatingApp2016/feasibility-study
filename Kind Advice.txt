@@ -36,3 +36,86 @@ Du's answers yet to be finished
 2-3 If we cannot list supplier info fully in a row, will that be a huge challenging to us?
 
 Please kindly refer to the App 'Burpple' 
+
+
+-----------------------------------------------------------------------------------------------------------------------
+Similar apps in Singapore
+
+1. opensnap (9 Asia countries) - for foddie to share their food stories
+
+2. 8 days eat - write reviews/check in to earns points
+
+3. foodpanda - delivery foods
+
+4. picky -  
+
+5. burpple !!! most simliar function !!!
+
+6. where to eat - GPS restaurants finder
+
+7. chope - make reservations/ menu in apps(browse before u book)
+
+8. open rice - 
+
+9. soshiok- food delivery/restaurant reservations/trust food review/reward system/food news/restaurant listings/recipes
+
+10.ticktok- show queue information
+
+11. foodprint - search by MRT stations,provide the transporation info, suggest the good food 
+
+12. hungrygowhere - from hawker center to fancy restaurants
+
+13. eatigo- reservations
+
+14. BUUUK about -randomly pick a lunch spot nearby 
+
+15. Feecha  - tell u everything neighbourhoods of foods/new/food reviews
+
+16. Lunch Kaki - find partner who nearby you to eat with
+
+
+Success
+full functions : provide more informations about the restaurants 
+
+user friendly app : try to use some "foodie" app which is not convenient to use (UI/UX desgin must be attrative)
+
+use as gaming : people who use this app to collect point which user is not just use but also can benefit from it 
+
+different from other apps : 
+ 
+- provide super convenient,faster way for user to get their favor restaurants
+- connect suppliers(fruits/veg/ingredients/accesorries) with the owner  
+- combine all the features function of others app to become a ONE-STOP apps
+
+Problems 
+1. how to let user automatically provide their own information accurately to build our DB
+2. promote the apps (so many similar foodie apps)
+3. co-operate with others existing apps 
+
+Functions
+1. search by diff criteria: Location/Price range/Type of Food/Calories/
+Advance function *Comments from customers/Status of foodpt/Booking Service/Discount or voucher plan
+
+2. apps can detect the user`s location and show the appropriate nearest foodpt(cafe/restaurant/hawker/fastfood)
+OR  user can manually key in the location(browse usage)
+
+3. user can search by ONE or MULTIPLE condition, if no record found or match then the similar or nearest shop will show up
+
+4. when user select the restaurant, apps will provide map function(avoid user to search again on maps to please user experience)
+
+5. for owner to update their info(eg.menu updated/holidays information/discount/promotion etc...)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
