@@ -1,6 +1,7 @@
 Kind Advice
 --All these items to be finished by 3rd,Feb
 
+------------------------------------------------Question 1-----------------------------------------------------------
 1 Successful Cases of starting an APP by individuals or small group
 
 2 Similar apps in Singapore now
@@ -9,7 +10,7 @@ Kind Advice
 
 4 Detailed product positioning for our App.
 
-
+------------------------------------------------Answering 1------------------------------------------------------------
 Motto:
 Provide a platform (a)for user to serach suitable restaurant 
                    (b)for owner to promote their restaurant
@@ -23,4 +24,15 @@ Advance function *Comments from customers/Status of foodpt/Booking Service/Disco
 2. app can detect the user`s location and show the appropraite nearest foodpt(cafe/restaurant/hawker/fastfood)
 OR  user can manually key in the location(browse usage)
 3. user can search via ONE or MULTIPLE condition if there is no match, the similar and nearest shop will show up
+--------------------------------------------------Answering 1----------------------------------------------------------
+Du's answers yet to be finished
 
+
+
+
+---------------------------------------------Question 2 [IMPORTANT]-----------------------------------------------------
+2-1 In the existing dinning/cater Apps, they cannot list supplier info in their apps without permission,is it correct
+2-2 If so, is it because of the copyright in Singapore ? How about in China or other country
+2-3 If we cannot list supplier info fully in a row, will that be a huge challenging to us?
+
+Please kindly refer to the App 'Burpple' 
