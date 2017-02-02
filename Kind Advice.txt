@@ -105,6 +105,27 @@ OR  user can manually key in the location(browse usage)
 
 5. for owner to update their info(eg.menu updated/holidays information/discount/promotion etc...)
 
+6. well categorize the type of restaurant(eg.halal/vege etc. OR gathering/dating/celebration/annual dinner/stomach needs/high tea/tourists/buffet etc..)
+
+7. shopping cart(user can store their favor restaurants in cart)
+
+8. link with social apps(eg.whatapps/wechat/line)? User can add others(friends list)
+- X user can select some restaurant for Y user to choose/ select then send 
+- select some restaurants to recommended their friends 
+
+@ ADVANCE(use data mining,big data to analyse)
+data record the user experience
+   (eg.track the user favourite - as user will upload photo and comments to gain points
+				- new restaurant/doing promotion restaurants will prompt the user to go)
+
+@ for those user can not make decision
+Gaming(Roulette): user can select few(min:2/max:10 or more) restaurants , Apps will auto select for you 
+
+Compare functions : user can select few(maybe around 3) restaurants ,the info will list out and doing compare by(distance km/hr,price$/$$/$$$,etc...)
+
+
+
+
 
 
 
