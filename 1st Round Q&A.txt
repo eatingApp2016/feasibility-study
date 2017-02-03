@@ -1,4 +1,3 @@
-Kind Advice
 --All these items to be finished by 3rd,Feb
 
 ------------------------------------------------Question 1-----------------------------------------------------------
@@ -10,7 +9,7 @@ Kind Advice
 
 4 Detailed product positioning for our App.
 
-------------------------------------------------Answering 1------------------------------------------------------------
+------------------------------------------------Answer by Deborah------------------------------------------------------------
 Motto:
 Provide a platform (a)for user to serach suitable restaurant 
                    (b)for owner to promote their restaurant
@@ -24,54 +23,6 @@ Advance function *Comments from customers/Status of foodpt/Booking Service/Disco
 2. app can detect the user`s location and show the appropraite nearest foodpt(cafe/restaurant/hawker/fastfood)
 OR  user can manually key in the location(browse usage)
 3. user can search via ONE or MULTIPLE condition if there is no match, the similar and nearest shop will show up
---------------------------------------------------Answering 1----------------------------------------------------------
-
-//1 AND 4 yet to be finished by Du Hong coz need more research about them
-2 Similar apps in Singapore 
-hungry go where: biggest food guide platform among Singapore. Has similar function base on real-time locating and search,review,discount
-burpple        : similar functions like our design. Seems user not active and the platform did not provide much restautant info.
-chope          : restaurant reservations
-
-Conclusion: There are similar apps in the market now. But when I went through them, there are not many users within these platforms.
-We need to specify more about products and our marketing
-
-3 Which factors maybe make us succeed
-
-Product
-- We aim at collecting and providing huge dinning/catering info within legal scope
-- Simple UI with useful functions. We will do avoid showy design (Design can refer to SG Bus or IOS style)
-- Other interesting functions
-eg. AA share, after a table lunch, how much I will need to pay back to the payer
-    Everyday draw, to get $1
-    Food recommand according to habit
-
-
-Team
-- Team with good communication skills and programming skill(low expense and cost in tech)
-
-Strategy
-- We won't target so called 'general group', instead, will focus on certain group of people first.
-eg. White-collars who always go to lunch near office side/Guys from China who prefer to have China's food/People who are managing to keep fit
-
-- Use as gaming
-eg. Collecting points and draw for 'Iphone'
-
-- Dummuy data. 
-At the very beginning of the production release, we can create many user accounts and create dummy info
-
-
-
-
-
----------------------------------------------Question 2 [IMPORTANT]-----------------------------------------------------
-2-1 In the existing dinning/cater Apps, they cannot list supplier info in their apps without permission,is it correct
-2-2 If so, is it because of the copyright in Singapore ? How about in China or other country
-2-3 If we cannot list supplier info fully in a row, will that be a huge challenging to us?
-
-Please kindly refer to the App 'Burpple' 
-
-
------------------------------------------------------------------------------------------------------------------------
 Similar apps in Singapore
 
 1. opensnap (9 Asia countries) - for foddie to share their food stories
@@ -155,6 +106,50 @@ data record the user experience
 Gaming(Roulette): user can select few(min:2/max:10 or more) restaurants , Apps will auto select for you 
 
 Compare functions : user can select few(maybe around 3) restaurants ,the info will list out and doing compare by(distance km/hr,price$/$$/$$$,etc...)
+
+--View by duhong Feb 4th,2017
+
+
+--------------------------------------------------Answer by Du----------------------------------------------------------
+
+1 Please refer to this url to see. We do hv many successful cases
+https://www.newunion.sg/blog/business/finances/7-local-smes-which-succeeded-in-the-last-5-years-through-funding
+
+2 Similar apps in Singapore 
+hungry go where: biggest food guide platform among Singapore. Has similar function base on real-time locating and search,review,discount
+burpple        : similar functions like our design. Seems user not active and the platform did not provide much restautant info.
+chope          : restaurant reservations
+
+Conclusion: There are similar apps in the market now. But when I went through them, there are not many users within these platforms.
+We need to specify more about products and our marketing
+
+3 Which factors maybe make us succeed
+
+Product
+- We aim at collecting and providing huge dinning/catering info within legal scope
+- Simple UI with useful functions. We will do avoid showy design (Design can refer to SG Bus or IOS style)
+- Other interesting functions
+eg. AA share, after a table lunch, how much I will need to pay back to the payer
+    Everyday draw, to get $1
+    Food recommand according to habit
+
+
+Team
+- Team with good communication skills and programming skill(low expense and cost in tech)
+
+Strategy
+- We won't target so called 'general group', instead, will focus on certain group of people first.
+eg. White-collars who always go to lunch near office side/Guys from China who prefer to have China's food/People who are managing to keep fit
+
+- Use as gaming
+eg. Collecting points and draw for 'Iphone'
+
+- Dummuy data. 
+At the very beginning of the production release, we can create many user accounts and create dummy info
+
+4 We should not combine everything into one and provide ONE-STOP-APP. We need to reach an agreement of the marketing strategies and functionalities
+
+
 
 
 
