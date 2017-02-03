@@ -25,7 +25,40 @@ Advance function *Comments from customers/Status of foodpt/Booking Service/Disco
 OR  user can manually key in the location(browse usage)
 3. user can search via ONE or MULTIPLE condition if there is no match, the similar and nearest shop will show up
 --------------------------------------------------Answering 1----------------------------------------------------------
-Du's answers yet to be finished
+
+//1 AND 4 yet to be finished by Du Hong coz need more research about them
+2 Similar apps in Singapore 
+hungry go where: biggest food guide platform among Singapore. Has similar function base on real-time locating and search,review,discount
+burpple        : similar functions like our design. Seems user not active and the platform did not provide much restautant info.
+chope          : restaurant reservations
+
+Conclusion: There are similar apps in the market now. But when I went through them, there are not many users within these platforms.
+We need to specify more about products and our marketing
+
+3 Which factors maybe make us succeed
+
+Product
+- We aim at collecting and providing huge dinning/catering info within legal scope
+- Simple UI with useful functions. We will do avoid showy design (Design can refer to SG Bus or IOS style)
+- Other interesting functions
+eg. AA share, after a table lunch, how much I will need to pay back to the payer
+    Everyday draw, to get $1
+    Food recommand according to habit
+
+
+Team
+- Team with good communication skills and programming skill(low expense and cost in tech)
+
+Strategy
+- We won't target so called 'general group', instead, will focus on certain group of people first.
+eg. White-collars who always go to lunch near office side/Guys from China who prefer to have China's food/People who are managing to keep fit
+
+- Use as gaming
+eg. Collecting points and draw for 'Iphone'
+
+- Dummuy data. 
+At the very beginning of the production release, we can create many user accounts and create dummy info
+
 
 
 
